@@ -1,0 +1,247 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Mitr" href="https://fonts.googleapis.com/css2?family=Mitr" />
+    <mj-font name="Itim" href="https://fonts.googleapis.com/css2?family=Itim" />
+    <mj-title>Indigo Mental Club for kids.</mj-title>
+    <mj-preview>
+    Online mental arithmetic classes, classes for kids from 5 y.o. Cognitive development learning. International School of mental math. Professional Instructors
+    </mj-preview>
+    <mj-style inline="inline">
+      * {
+        font-family: Mitr, Itim, Ubuntu, Helvetica, Arial, sans-serif !important;
+      }
+
+      .nowrap {
+        white-space: nowrap;
+      }
+    </mj-style>
+  </mj-head>
+  <!-- green #67BD50
+  purple #795FC1
+  bgc #F2E9B0
+  blue light #C5C2E5 -->
+  <mj-body background-color="#f2f1f4">
+    <mj-section>
+      <mj-column>
+        <mj-image width="180px" height="70px" src="assets/logo.svg"></mj-image>
+        <mj-text padding-bottom="5px" padding-top="10px" align="center" font-size="14px" color="#795FC1">Петр Доров</mj-text>
+        <mj-text padding-top="0" align="center" font-size="10px" color="#795FC1">
+          &mdash; DIGITAL-ЮРИСТ &mdash;
+        </mj-text>
+        <mj-text font-size="14px" align="center" color="#795FC1">
+          Удаленное&nbsp;сопровождение&nbsp;компаний по&nbsp;всему&nbsp;миру
+        </mj-text>
+        <mj-divider border-color="#C3C7C5" border-width="2px"></mj-divider>
+        <mj-text font-size="18px" line-height="130%" color="#795FC1" font-family="Mitr, Arial" align="center">
+          IT&nbsp;| E-commerce&nbsp;| Digital&nbsp;marketing&nbsp;| FinTech&nbsp;| Crypto
+          &nbsp;| Blockchain&nbsp;| GameDev
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-left="0" padding-right="0">
+      <mj-column background-color="#C3C7C5">
+        <mj-image padding="0" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/banner2.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="26px" color="#795FC1" align="center">
+          &mdash; Обо мне &mdash;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image align="left" padding-left="0" padding-right="0" padding-top="0" src="https://avatars.mds.yandex.net/i?id=8b64601fdcb6da80a00ffbb8b99e8fc98f919b49-9145916-images-thumbs&n=13" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-text font-size="14px" color="#795FC1">
+          <h1 style="margin-top: 0; font-size: 26px; white-space: nowrap;">Петр Доров</h1>
+          <p style="font-style: italic; font-size: .9rem;">· юрист-международник</p>
+          <p style="font-size: .9rem; line-height: 1.1rem;">· образование: Всероссийский
+            государственный университет
+            Министерства юстиции г.&nbsp;Москвы;
+          </p>
+
+          <p style="font-size: .9rem; line-height: 1.1rem;">
+            · языки: русский,&nbsp;английский;
+          </p>
+        </mj-text>
+        <mj-text padding-top="0" font-size="14px" line-height="120%" color="#795FC1">
+          В настоящее время оказываю
+          правовую помощь как
+          проектам на территории РФ,
+          так и международным
+          проектам (США, страны ЕС,
+          ОАЭ, Гонконг, Сингапур и
+          другие страны).
+        </mj-text>
+        <mj-text font-size="14px" line-height="120%" color="#795FC1">
+          Сопровождаю проекты,
+          связанные с криптовалютой,
+          финансовым сектором,
+          информационными
+          технологиями и медиа.
+        </mj-text>
+        <mj-text font-size="14px" line-height="120%" color="#795FC1">
+          Буду рад сотрудничеству с
+          Вами и Вашим бизнесом
+        </mj-text>
+        <mj-button padding-top="20px" target="_blank" href="tel:+797444442323" background-color="transparent" color="#795FC1" border="1px solid #795FC1" inner-padding="10px 20px" font-size="16px" font-weight="400" padding="0">
+          СВЯЗАТЬСЯ
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="26px" color="#795FC1" align="center">
+          &mdash; Услуги &mdash;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column width="35%">
+          <mj-image align="center" border-radius="10px 0" padding-right="0" padding-top="0" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/s1.png" alt="" />
+        </mj-column>
+        <mj-column width="65%" padding="0">
+          <mj-text padding-top="0" font-size="14px" color="#795FC1">
+            <h4 style="margin-top: 0;">Составление необходимых для проекта документов</h4>
+            <p>
+              Проведу аудит договоров и важной
+              документации. Пропишу все необходимые
+              условия, которые защитят Ваш бизнес и
+              продукт.
+            </p>
+          </mj-text>
+
+          <mj-button align="left" padding-top="0" padding-bottom="0" target="_blank" href="https://wa.me/+797444442323?text=Здравствуйте.%20Вопрос%20по%20составлению%20документов%20для%20проекта" background-color="transparent" color="#795FC1" inner-padding="0" font-size="12px" font-weight="400">
+            Узнать подробее -&gt;
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column width="65%" padding="0">
+          <mj-text padding-top="0" font-size="14px" color="#795FC1">
+            <h4 style="margin-top: 0;">Помощь с регистрацией компании за рубежом</h4>
+            <p>
+              Проанализирую зарубежное законодательство, помогу избежать
+              правовых проблем, в том числе с
+              государственными органами и регуляторами.
+            </p>
+          </mj-text>
+
+          <mj-button align="left" padding-top="0" padding-bottom="0" target="_blank" href="https://wa.me/+797444442323?text=Здравствуйте.%20Вопрос%20по%20регистрации%20компании%20для%20за%20рубежом" background-color="transparent" color="#795FC1" inner-padding="0" font-size="12px" font-weight="400">
+            Узнать подробее -&gt;
+          </mj-button>
+        </mj-column>
+        <mj-column width="35%">
+          <mj-image align="center" border-radius="0 10px" padding-left="0" padding-top="0" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/s2.png" alt="" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column width="35%">
+          <mj-image align="center" border-radius="10px 0" padding-right="0" padding-top="0" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/s4.png" alt="" />
+        </mj-column>
+        <mj-column width="65%" padding="0">
+          <mj-text padding-top="0" font-size="14px" color="#795FC1">
+            <h4 style="margin-top: 0;">Оформление сотрудников</h4>
+            <p>
+              Разработаю договоры, должностные инструкции, локальные нормативные акты и другую документацию в соответствии с трудовым кодексом, проконсультурию по вопросам защиты прав работодателей в трудовых отношениях
+            </p>
+          </mj-text>
+
+          <mj-button align="left" padding-top="0" padding-bottom="0" target="_blank" href="https://wa.me/+797444442323?text=Здравствуйте.%20Вопрос%20по%20услуге%20оформления%20сотрудников" background-color="transparent" color="#795FC1" inner-padding="0" font-size="12px" font-weight="400">
+            Узнать подробее -&gt;
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column width="65%" padding="0">
+          <mj-text padding-top="0" font-size="14px" color="#795FC1">
+            <h4 style="margin-top: 0;">Решение проблем с&nbsp;государственными органами и банками</h4>
+            <p>
+              Помогу пройти любые проверки, подготовлю и
+              подам перечень необходимых документов для
+              прохождения проверок как со стороны
+              государственных органов, так и со стороны
+              банков. В т.ч. AML/CFT&nbsp;компаленс.
+            </p>
+          </mj-text>
+
+          <mj-button align="left" padding-top="0" padding-bottom="0" target="_blank" href="https://wa.me/+797444442323?text=Здравствуйте.%20Вопрос%20по%20помощи%20с%20гос.органами%20или%20банками" background-color="transparent" color="#795FC1" inner-padding="0" font-size="12px" font-weight="400">
+            Узнать подробее -&gt;
+          </mj-button>
+        </mj-column>
+        <mj-column width="35%">
+          <mj-image align="center" border-radius="0 10px" padding-left="0" padding-top="0" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/s6.png" alt="" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#C3C7C5" border-width="2px"></mj-divider>
+        <mj-text align="center" color="#795FC1" font-size="16px" line-height="120%">
+          В&nbsp;данном&nbsp;письме&nbsp;представлены несколько&nbsp;примеров оказываемых&nbsp;услуг, <br> с&nbsp;полным&nbsp;списком
+          можно&nbsp;ознакомиться <br> по&nbsp;телефону:&nbsp;
+          <mj-button css-class="nowrap" target="_blank" href="tel:+797444442323" color="#795FC1" background-color="transparent" inner-padding="0" padding="0" font-size="16px">
+            <span style="font-weight: 500; font-family: Ubuntu, san-serif !important;">
+              +7&nbsp;(977)&nbsp;880-04-22
+            </span>
+          </mj-button>
+
+        </mj-text>
+        <mj-button target="_blank" href="tel:+797444442323" background-color="#795FC1" inner-padding="10px 20px" padding="10px 0" font-size="18px" font-weight="400">
+          ПОЗВОНИТЬ
+        </mj-button>
+        <mj-divider border-color="#C3C7C5" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#795FC1">
+      <mj-column width="100%">
+        <mj-text font-size="26px" color="#ffffff" align="center">
+          &mdash; Контакты &mdash;
+        </mj-text>
+      </mj-column>
+      <mj-column padding="30px" width="100%">
+        <mj-button css-class="nowrap" target="_blank" href="tel:+797444442323" color="#ffffff" background-color="transparent" inner-padding="0" padding="0" padding-bottom="10px" font-size="16px">
+          тел.: <span style="font-weight: 500; font-family: Ubuntu, san-serif !important;">
+            +7&nbsp;(977)&nbsp;880-04-22
+          </span>
+        </mj-button>
+        <mj-button css-class="nowrap" target="_blank" href="mailto:d@nadeikin.ru" color="#ffffff" background-color="transparent" inner-padding="0" padding="0" font-size="16px">
+          почта: <span style="font-weight: 500; font-family: Ubuntu, san-serif !important;">
+            d@nadeikin.ru
+          </span>
+        </mj-button>
+      </mj-column>
+      <mj-group>
+        <mj-column>
+          <mj-button width="30px" height="30px" align="right" target="_blank" href="https://wa.me/+797444442323" background-color="transparent" padding="0" padding-right="10px" inner-padding="0">
+            <img alt="" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/w2.png" style="display: block; width: 30px; height: 30px;" />
+          </mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-button width="30px" height="30px" align="left" target="_blank" href="https://t.me/+797444442323" background-color="transparent" padding="0" padding-left="10px" inner-padding="0">
+          
+            <img alt="" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/YYk4/VwbHu4nGe/t2.png" style="display: block; width: 30px; height: 30px;" />
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
